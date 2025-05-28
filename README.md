@@ -15,7 +15,8 @@ It summarizes my background in Cybernetics Engineering and Technology Management
 
 ## 📁 Files
 
-- `Ramon_Uhl_CV.pdf` – Latest version of my CV  
+- `uhl-CtrlWorks_CV_English.pdf` – Latest version of my CV in English
+- `uhl-CtrlWorks_CV_German.pdf` – Latest version of my CV in German   
 - `README.md` – Repository overview  
 - *(optional)* `.tex` or `.docx` sources if available
 
